@@ -3,7 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read the Docs Template's documentation!
+.. Welcome to Read the Docs Template's documentation!
+Welcome to *{project name!!!!}*'s documentation!
 ==================================================
 
 Hello World! 
@@ -12,7 +13,9 @@ Hello World!
 
 ``fixed space``
 
-   and and indented paragraph
+   and indented paragraph
+   
+.. this is a comment
 
 Contents:
 
