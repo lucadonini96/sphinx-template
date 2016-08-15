@@ -6,7 +6,14 @@
 Welcome to Read the Docs Template's documentation!
 ==================================================
 
-Hello World!
+Hello World! 
+
+*text in italics* **and text in bold**
+
+``fixed space``
+
+   and and indented paragraph
+
 Contents:
 
 .. toctree::
